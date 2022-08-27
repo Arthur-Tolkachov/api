@@ -22,6 +22,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Commands
+
+```
+`nest new name` - start new project
+`nest g module name` - generate new module
+`nest g controller name` - generate new controller
+`nest g service name` generate new service
+```
+
+## Libraries
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
